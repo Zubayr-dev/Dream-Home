@@ -1,0 +1,16 @@
+{
+  "name": "murad",
+  "version": "1.0.0",
+  "description": "Landing page fot Uztours ",
+  "main": "index.js",
+  "scripts": {
+    "watch:sass": "node-sass sass/main1.scss  css/style.css -w"
+
+  },
+  "author": "Zubayr",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  },
+  "dependencies": {}
+}
